@@ -1,0 +1,12 @@
+{
+  "name": "tokens",
+  "version": "1.0.0",
+  "description": "This example code is bare-bones to show you what this framework can do. If you have the style-dictionary module installed globally, you can `cd` into this directory and run:",
+  "main": "index.js",
+  "scripts": {
+    "build": "style-dictionary build"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
